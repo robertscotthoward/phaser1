@@ -16,5 +16,7 @@ Steps:
 * Install the [HTTP Server / HTML Preview](https://marketplace.visualstudio.com/items?itemName=Flixs.vs-code-http-server-and-html-preview extension) so that you can run your local server.
 * Fork this repo and modify it for your own games.
 
+# Share
+This Phaser project starts with the `index.html` page. You can launch it online with the following URL hack:
 
-https://stackblitz.com/github/robertscotthoward/phaser1
+* https://raw.githack.com/robertscotthoward/phaser1/main/index.html
